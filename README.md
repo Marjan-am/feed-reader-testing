@@ -8,7 +8,7 @@ In this project we are given a web-based application that reads RSS feeds. The p
 *[2.1 Jasmine documentation](https://jasmine.github.io/2.1/introduction.html)
 
 # How to run the Project
-- Clone the repository using (https://github.com/Marjan-am/feed-reader-testing.git)
+- Clone the repository using https://github.com/Marjan-am/feed-reader-testing.git
 - Open the index.html in your browser.
 ## The tests
 1. Tsets to make sure allFeeds variable has been defined and that it is not empty.
